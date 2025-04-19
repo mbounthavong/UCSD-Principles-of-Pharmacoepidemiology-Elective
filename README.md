@@ -29,3 +29,8 @@ Course presentations are posted in the [Presentations folder](https://github.com
 ## Codes and Exercises
 Exercises and codes are posted in the [Exercises folder](https://github.com/mbounthavong/UCSD-Principles-of-Pharmacoepidemiology-Elective/tree/main/Exercises)
 
+
+## Disclaimers
+This is a work in progress. 
+This is for educational purposes only. 
+
